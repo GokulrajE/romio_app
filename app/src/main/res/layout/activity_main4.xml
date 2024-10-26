@@ -30,7 +30,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="40dp"
                 android:text="@string/imu"
-                android:textColor="@color/my_button_color"
+                android:textColor="@color/black"
 
                 android:textSize="30sp"
                 android:textStyle="bold" />
