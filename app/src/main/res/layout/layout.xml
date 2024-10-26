@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- Add your additional options here -->
+    <TextView
+        android:id="@+id/option1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Flexion"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/option2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Extension"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/option3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Right Lateral flexion"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/option4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Left Lateral Flexion"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/option5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Right Rotation"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:textSize="20sp"/>
+
+    <TextView
+        android:id="@+id/option6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="Left Rotation"
+        android:padding="10dp"
+        android:textSize="20sp"/>
+</LinearLayout>
